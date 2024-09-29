@@ -1,0 +1,21 @@
+.divider {
+    display: flex;
+    flex-direction: column; /* Vertical alignment */
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #353535; /* Circle color */
+    margin-bottom: 10px; /* Space between circle and line */
+  }
+  
+  .line {
+    width: 2px;
+    height: 100px; /* Adjust the height as needed */
+    background-color: #353535; /* Line color */
+    margin-bottom: 10px; /* Space between line and bottom circle */
+  }

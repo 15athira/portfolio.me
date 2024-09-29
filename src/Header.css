@@ -1,0 +1,26 @@
+.dividerh {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circleh {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #353535; /* Dark circle color */
+}
+
+.lineh {
+  width: 100%; /* Adjust the width of the line for spacing between circles */
+  height: 2px;
+  background-color: #353535; /* Dark line color */
+  margin: 0 10px; /* Adds space between the circles */
+}
+.navbar-light .nav-link {
+  color: #353535; /* Dark color for nav links */
+}
+
+.navbar-light .nav-link:hover {
+  color: #545454; /* Slightly lighter color on hover */
+}
