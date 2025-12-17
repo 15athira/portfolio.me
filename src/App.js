@@ -5,13 +5,19 @@ import About from "./About";
 import Contact from "./Contact";
 import Education from "./Education";
 
-function App(){
-  return(
+import Divider from "./Divider";
+
+function App() {
+  return (
     <div>
       <Header />
+      <Divider />
       <Home />
+      <Divider />
       <About />
-      <Education/>
+      <Divider />
+      <Education />
+      <Divider />
       <Contact />
 
     </div>

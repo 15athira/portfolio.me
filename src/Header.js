@@ -15,18 +15,15 @@ function Header() {
               <a className="nav-link" href="#about">About</a>
             </li>
             <li className="nav-item px-3">
+              <a className="nav-link" href="#education">Education</a>
+            </li>
+            <li className="nav-item px-3">
               <a className="nav-link" href="#contact">Contact</a>
             </li>
+            
           </ul>
         </div>
       </nav>
-      
-      {/* Circle-Line-Circle design below navbar */}
-      <div className="dividerh container my-4 d-flex justify-content-center">
-        <div className="circleh"></div>
-        <div className="lineh mx-3"></div>
-        <div className="circleh"></div>
-      </div>
     </>
   );
 }
