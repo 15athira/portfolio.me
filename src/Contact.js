@@ -35,13 +35,7 @@ function Contact() {
                   <a href="mailto:athirarkrishnan15@gmail.com" className="text-decoration-none text-dark">athirarkrishnan15@gmail.com</a>
                 </p>
               </div>
-              {/* Phone */}
-              <div className="col-lg-4 col-12 d-flex justify-content-center flex-column align-items-start mb-3">
-                <h5 style={{ color: '#353535' }}>Phone</h5>
-                <p style={{ color: '#545454' }}>
-                  <a href="tel:+919544734199" className="text-decoration-none text-dark">+91 9544734199</a>
-                </p>
-              </div>
+              
               {/* Address */}
               <div className="col-lg-4 col-12 d-flex justify-content-center flex-column align-items-start mb-3">
                 <h5 style={{ color: '#353535' }}>Address</h5>
