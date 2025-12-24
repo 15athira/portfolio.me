@@ -1,6 +1,6 @@
 # Portfolio - Athira Radhakrishnan M
 
-![Portfolio Preview](./public/photo_6289731790130238007_y.jpg)
+**Live Demo:** [https://athirarkrishnan.netlify.app/]
 
 ## 📌 Overview
 
