@@ -34,14 +34,13 @@ function About() {
 
           {/* About Me Text */}
           <div className="col-md-6 d-flex justify-content-center">
-            <p className="lead text-center" style={{ color: '#545454', fontFamily: 'Roboto, sans-serif', marginRight: '20px', textAlign: 'justify' }}>
-              Hello! I'm Athira, a passionate developer with a love for creating intuitive, dynamic user experiences.
-              I enjoy bringing ideas to life through clean, efficient code. I specialize in React, JavaScript, HTML & CSS
-              and I'm always eager to learn new technologies and improve my skills. When I'm not coding, I enjoy sports,
-              movies, or music.
+            <p className="lead" style={{ color: '#545454', fontFamily: 'Roboto, sans-serif', marginRight: '20px', textAlign: 'justify' }}>
+              I am a final-year MSc Computer Science student at Farook College (Autonomous), Kozhikode, with a strong interest in Data Analytics, Visualization, and AI-based applications.
+              <br /><br />
+              My academic journey has helped me build a solid foundation in programming, algorithms, and software engineering, while add-on courses and certifications have strengthened my practical skills in Alteryx, Power BI, Excel, and Python.
+              <br /><br />
+              I have worked on AI-based, data analytics, and mobile application projects, and I enjoy applying technology to solve real-world problems. I am currently seeking internship, project, or research opportunities where I can contribute and grow as a Data Analyst.
             </p>
-
-
           </div>
         </div>
       </div>
